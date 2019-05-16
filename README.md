@@ -1,6 +1,6 @@
 # Pinata Hash Queue
 
-This script takes a IPFS hash as input, along with a file name and adds it to Pinata.Cloud pin for pinning. If the pinning fails then it adds the hash to the Pinata.Cloud pin Queue for later pinning. 
+This script takes a IPFS hash as input, along with a file name and adds it to Pinata.Cloud pin for pinning. If the pinning takes too long then it adds the hash to the Pinata.Cloud pin Queue for later pinning. 
 
 ## USAGE:
 ### Add Single File:
